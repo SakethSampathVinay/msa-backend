@@ -1,0 +1,32 @@
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:21:15.728Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:21:19.614Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:32:27.236Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:42:24.217Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:46:28.405Z"}
+{"level":"error","message":"Yelp API Error: Request failed with status code 400","timestamp":"2025-03-07T09:01:23.846Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:05:40.441Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:07:56.884Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:13:55.698Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:14:28.542Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:15:13.476Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:16:17.861Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:17:02.264Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:18:36.871Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:19:45.353Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:20:11.844Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:20:44.922Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:22:33.197Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:22:42.230Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:26:13.459Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:28:40.093Z"}
+{"level":"error","message":"Foursquare API Error: Missing FOURSQUARE_API_KEY in environment variables","timestamp":"2025-03-07T09:33:59.133Z"}
+{"level":"error","message":"Foursquare API Error: Missing FOURSQUARE_API_KEY in environment variables","timestamp":"2025-03-07T09:34:53.794Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:36:26.505Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:37:49.849Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:39:01.431Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:39:20.892Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:39:52.336Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:40:01.751Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:40:22.427Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:41:44.366Z"}
+{"level":"error","message":"Foursquare API Error: location is not defined","timestamp":"2025-03-07T09:44:56.411Z"}

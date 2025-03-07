@@ -1,0 +1,95 @@
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T06:21:15.726Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:21:15.728Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T06:21:19.613Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:21:19.614Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T06:32:27.233Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:32:27.236Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T06:42:24.213Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:42:24.217Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T06:46:28.402Z"}
+{"level":"error","message":"Error: undefined","timestamp":"2025-03-07T06:46:28.405Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:01:23.326Z"}
+{"level":"error","message":"Yelp API Error: Request failed with status code 400","timestamp":"2025-03-07T09:01:23.846Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:05:40.010Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:05:40.441Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:07:56.528Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:07:56.884Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:13:55.354Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:13:55.698Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:14:28.175Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:14:28.542Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:15:13.053Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:15:13.476Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:16:17.488Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:16:17.861Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:17:01.791Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:17:02.264Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:18:36.502Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:18:36.871Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:19:44.932Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:19:45.353Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:20:11.496Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:20:11.844Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:20:44.463Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:20:44.922Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:22:32.837Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:22:33.197Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:22:41.930Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:22:42.230Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:26:13.035Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:26:13.459Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:28:39.643Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:28:40.093Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:33:59.130Z"}
+{"level":"error","message":"Foursquare API Error: Missing FOURSQUARE_API_KEY in environment variables","timestamp":"2025-03-07T09:33:59.133Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:34:53.793Z"}
+{"level":"error","message":"Foursquare API Error: Missing FOURSQUARE_API_KEY in environment variables","timestamp":"2025-03-07T09:34:53.794Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:36:25.803Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:36:26.505Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:37:49.076Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:37:49.849Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:39:00.829Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:39:01.431Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T09:39:20.470Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:39:20.892Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?lat=40.7128&lon=-74.0060","timestamp":"2025-03-07T09:39:51.881Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:39:52.336Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?lat=40.7128&lon=-74.0060","timestamp":"2025-03-07T09:40:01.298Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:40:01.751Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?lat=40.7128&lon=-74.0060","timestamp":"2025-03-07T09:40:21.867Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:40:22.427Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?lat=40.7128&lon=-74.0060","timestamp":"2025-03-07T09:41:43.716Z"}
+{"level":"error","message":"Foursquare API Error: Invalid request token.","timestamp":"2025-03-07T09:41:44.366Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?near=NewYork","timestamp":"2025-03-07T09:44:56.408Z"}
+{"level":"error","message":"Foursquare API Error: location is not defined","timestamp":"2025-03-07T09:44:56.411Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?near=NewYork","timestamp":"2025-03-07T09:55:30.837Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?near=NewYork","timestamp":"2025-03-07T09:56:26.828Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?near=NewYork","timestamp":"2025-03-07T09:57:36.641Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza?near=USA","timestamp":"2025-03-07T09:57:50.755Z"}
+{"level":"info","message":"Incoming request: GET /search/juice","timestamp":"2025-03-07T09:58:43.190Z"}
+{"level":"info","message":"Incoming request: GET /search/combo","timestamp":"2025-03-07T09:58:52.797Z"}
+{"level":"info","message":"Incoming request: GET /search/combo","timestamp":"2025-03-07T10:11:02.040Z"}
+{"level":"info","message":"Incoming request: GET /search/pizza","timestamp":"2025-03-07T10:16:50.038Z"}
+{"level":"info","message":"Incoming request: GET /graphql","timestamp":"2025-03-07T10:23:07.563Z"}
+{"level":"info","message":"Incoming request: OPTIONS /graphql","timestamp":"2025-03-07T10:23:15.003Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:15.036Z"}
+{"level":"info","message":"Incoming request: OPTIONS /graphql","timestamp":"2025-03-07T10:23:27.169Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:27.172Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:28.376Z"}
+{"level":"info","message":"Incoming request: OPTIONS /graphql","timestamp":"2025-03-07T10:23:33.376Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:33.378Z"}
+{"level":"info","message":"Incoming request: OPTIONS /graphql","timestamp":"2025-03-07T10:23:38.392Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:38.394Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:43.376Z"}
+{"level":"info","message":"Incoming request: OPTIONS /graphql","timestamp":"2025-03-07T10:23:48.381Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:48.383Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:52.501Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:53.374Z"}
+{"level":"info","message":"Incoming request: OPTIONS /graphql","timestamp":"2025-03-07T10:23:58.376Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:23:58.378Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:24:03.377Z"}
+{"level":"info","message":"Incoming request: OPTIONS /graphql","timestamp":"2025-03-07T10:24:05.457Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:24:05.460Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:24:08.375Z"}
+{"level":"info","message":"Incoming request: OPTIONS /graphql","timestamp":"2025-03-07T10:24:13.381Z"}
+{"level":"info","message":"Incoming request: POST /graphql","timestamp":"2025-03-07T10:24:13.383Z"}
